@@ -55,7 +55,7 @@ The system follows a pipeline: **Image Input** ➡️ **CNN Classification** ➡
 
 ---
 
-## 👥 The Team: BROGRAMMERS-03
+## 👥 The Team: ECOVISION
 
 | Name | Official Email | GitHub Profile |
 | :--- | :--- | :--- |
